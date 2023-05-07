@@ -1,0 +1,101 @@
+#homepage {
+    background-color: #f3f7f7;
+}
+
+#plavikontejner {
+    color: #f9f9f9;
+    background-color: #14213d;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+#plavikontejner3 {
+    color: #000000;
+    background-color: #14213d;
+    padding-top: 7em;
+    padding-bottom: 7em;
+}
+
+#plavikontejner2 {
+    color: #FFFFFF;
+    background-color: #14213d;
+    padding-top: 7em;
+    padding-bottom: 7em;
+}
+
+#naslov{
+    color: #ffffff;
+    padding-bottom: 2em;
+}
+
+#belikontejneri {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+#naslovikontejnera {
+    padding-bottom: 4em;
+}
+
+.card {
+    width: 300px;
+}
+
+#textsazvezdicama {
+    width: 400px;
+}
+
+#zezdice {
+    width: 140px;
+    height: 35px;
+}
+
+#logonavbar {
+    width: 80px;
+    height: 80px;
+}
+
+#logo {
+    width: 150px;
+    height: 150px;
+}
+#iviceponude {
+    border: 5px solid #0a111f;
+}
+
+
+#dugme {
+    color: #0a111f;
+    background-color: #FBFF43;
+}
+
+#dugmenavbar {
+    color: #0a111f;
+    background-color: #FBFF43;
+}
+
+#najdugme {
+    border: 2px solid #0a111f;
+    color: #0a111f;
+    background-color: #f3f7f7;
+}
+
+#ivicenajponude {
+    color: #0a111f;
+    background-color: #CC99FF;
+    border: 5px solid #FBFF43;
+}
+
+#dugmenavbar {
+    border: 0px solid #f3f7f7;
+    background-color: #f3f7f7;
+}
+
+.footer{
+    padding-top: 3em;
+    padding-bottom: 2em;
+}
+
+#slika{
+    width:350px;
+    height: 350px;
+}
